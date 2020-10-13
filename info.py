@@ -28,6 +28,8 @@ START_MSG = """
 Here you can search files in inline mode. Just press following buttons and start searching.
 
 **NB : I'm not the owner of this files this are files that are uploaded by other channles this bot only indexes those files**
+
+Source of files @CC_Chat, @FilmCornerGroup, @MalluMoviesGroup, @CF_Chat, @Film_dimora
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
